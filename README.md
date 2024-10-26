@@ -45,8 +45,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:Meyyappan T  
+### Register Number:212223240086
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
